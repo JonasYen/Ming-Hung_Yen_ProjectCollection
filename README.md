@@ -15,5 +15,3 @@ https://youtube.com/shorts/6D47ZtqYpoU?feature=share
 * The Lidar node was launched, which produced a point cloud in Rviz - a virtual environment. 
 * The video, which demonstrates a point cloud, visualized the lab room where the experiment was conducted and showed two walls in the corner of the room, as well as the chairs, desk, and myself present in the room.
 
-
-![image](https://user-images.githubusercontent.com/89710851/228675609-557125a5-71f5-44f0-9f41-55a4ec2d2538.png)
