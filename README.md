@@ -6,3 +6,14 @@
 https://user-images.githubusercontent.com/89710851/228672464-f5d70b31-6763-4c37-9483-0846d2699c12.mp4
 
 https://youtube.com/shorts/6D47ZtqYpoU?feature=share
+
+## Self-Driving Robot
+* This project was my research assistant job during the summer of 2022, where I was invited to Prof. Yi Guo's automation and control laboratory. 
+* Our goal was to create a robot that could automatically navigate through complex environments while avoiding obstacles. 
+* To achieve this, we utilized a Lidar sensor to allow the robot to scan its surroundings.
+* The Lidar was connected to the NVIDIA Jetson AGX Xavier by following the hardware and API manuals closely.
+* The Lidar node was launched, which produced a point cloud in Rviz - a virtual environment. 
+* The video, which demonstrates a point cloud, visualized the lab room where the experiment was conducted and showed two walls in the corner of the room, as well as the chairs, desk, and myself present in the room.
+
+
+![image](https://user-images.githubusercontent.com/89710851/228675609-557125a5-71f5-44f0-9f41-55a4ec2d2538.png)
