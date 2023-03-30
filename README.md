@@ -15,4 +15,17 @@ https://youtube.com/shorts/6D47ZtqYpoU?feature=share
 * The Lidar node was launched, which produced a point cloud in Rviz - a virtual environment. 
 * The video, which demonstrates a point cloud, visualized the lab room where the experiment was conducted and showed two walls in the corner of the room, as well as the chairs, desk, and myself present in the room.
 
-[![Watch the video](https://youtu.be/HVhWwerSzkM)]
+
+* A fundamental problem in robotics is the process of having the robot acquire a map of its environment while simultaneously localizing itself relative to this map, i.e. SLAM (Simultaneous Localization And Mapping).
+* Since we already let the robot be able to scan its surroundings, our next step is to add a local planner to enable it to navigate autonomously. 
+* The video on the right demonstrates how the robot, using the SLAM algorithm, can select the optimal path to avoid obstacles in a virtual environment.
+
+[![SLAM Algorithm Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1680138736/video_to_markdown/images/youtube--DCRStm-qpKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](hhttps://www.youtube.com/watch?v=DCRStm-qpKA&ab_channel=%E9%A1%8F%E9%8A%98%E5%AE%8F "SLAM Algorithm Demo")
+
+## Smart Home – A project made in my sophomore year
+* This project was developed between December 2017 and February 2018, and involved using a combination of programming languages and hardware devices such as Python, Html, C/C++, Arduino, and Raspberry Pi. 
+* The Smart Home system was designed to connect a Raspberry Pi 3 with an Arduino board, along with several other components such as a web camera, LED array, fan, and temperature humidity sensor. 
+* The ability to collect data from all sensors and stream it live on an HTML webpage was a significant feature of our project. By accessing the webpage, users could effortlessly manage their home, such as by changing the camera's angle or controlling the lights' status.
+* Video provided with English audio and Chinese subtitle
+
+[![Smart Home](https://res.cloudinary.com/marcomontalbano/image/upload/v1680138395/video_to_markdown/images/youtube--HVhWwerSzkM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=HVhWwerSzkM&ab_channel=%E9%A1%8F%E9%8A%98%E5%AE%8F "Smart Home")
