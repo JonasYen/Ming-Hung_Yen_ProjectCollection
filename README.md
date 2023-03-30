@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/89710851/228672464-f5d70b31-6763-4c37-
 
 https://youtube.com/shorts/6D47ZtqYpoU?feature=share
 
-# **Self-Driving Robot - A project of my research assistant job**
+# **Self-Driving Robot - A project of research assistant job**
 * This project was my research assistant job during the summer of 2022, where I was invited to Prof. Yi Guo's automation and control laboratory. 
 * Our goal was to create a robot that could automatically navigate through complex environments while avoiding obstacles. 
 * To achieve this, we utilized a Lidar sensor to allow the robot to scan its surroundings.
