@@ -19,7 +19,7 @@ https://youtube.com/shorts/6D47ZtqYpoU?feature=share
 
 * A fundamental problem in robotics is the process of having the robot acquire a map of its environment while simultaneously localizing itself relative to this map, i.e. SLAM (Simultaneous Localization And Mapping).
 * Since we already let the robot be able to scan its surroundings, our next step is to add a local planner to enable it to navigate autonomously. 
-* The video on the right demonstrates how the robot, using the SLAM algorithm, can select the optimal path to avoid obstacles in a virtual environment.
+* The video below demonstrates how the robot, using the SLAM algorithm, can select the optimal path to avoid obstacles in a virtual environment.
 
 [![SLAM Algorithm Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1680138736/video_to_markdown/images/youtube--DCRStm-qpKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](hhttps://www.youtube.com/watch?v=DCRStm-qpKA&ab_channel=%E9%A1%8F%E9%8A%98%E5%AE%8F "SLAM Algorithm Demo")
 
