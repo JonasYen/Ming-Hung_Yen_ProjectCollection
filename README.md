@@ -1,4 +1,4 @@
-## Air hockey machine - One of my most notable projects
+# **Air hockey machine - One of my most notable projects**
 * I'm excited to speak with you about my experience and skills in the field of embedded systems, robotics, and automation. One of my most notable projects is the “air hockey machine”, which I worked on from 2018 to 2019.
 * In this project, I implemented Simulink to control robotic arms, enabling the machine to play air hockey with a human opponent. I also wrote a program using C++ and OpenCV to perform image processing tasks, allowing the machine to see the hockey puck and accurately forecast its location and speed.
 * Additionally, I used MATLAB to construct the virtual XY coordinate of the table and implemented ROS to connect different programming environments. This project challenged me to use a variety of programming languages and tools, and I'm proud of the end result.
@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/89710851/228672464-f5d70b31-6763-4c37-
 
 https://youtube.com/shorts/6D47ZtqYpoU?feature=share
 
-## Self-Driving Robot
+# **Self-Driving Robot - A project of my research assistant job**
 * This project was my research assistant job during the summer of 2022, where I was invited to Prof. Yi Guo's automation and control laboratory. 
 * Our goal was to create a robot that could automatically navigate through complex environments while avoiding obstacles. 
 * To achieve this, we utilized a Lidar sensor to allow the robot to scan its surroundings.
@@ -23,7 +23,7 @@ https://youtube.com/shorts/6D47ZtqYpoU?feature=share
 
 [![SLAM Algorithm Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1680138736/video_to_markdown/images/youtube--DCRStm-qpKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](hhttps://www.youtube.com/watch?v=DCRStm-qpKA&ab_channel=%E9%A1%8F%E9%8A%98%E5%AE%8F "SLAM Algorithm Demo")
 
-## Smart Home – A project made in my sophomore year
+# **Smart Home – A project made in my sophomore year**
 * This project was developed between December 2017 and February 2018, and involved using a combination of programming languages and hardware devices such as Python, Html, C/C++, Arduino, and Raspberry Pi. 
 * The Smart Home system was designed to connect a Raspberry Pi 3 with an Arduino board, along with several other components such as a web camera, LED array, fan, and temperature humidity sensor. 
 * The ability to collect data from all sensors and stream it live on an HTML webpage was a significant feature of our project. By accessing the webpage, users could effortlessly manage their home, such as by changing the camera's angle or controlling the lights' status.
